@@ -2,5 +2,6 @@
 
 int main (){
 printf("Bem-vindo à FIAP"); //Incluso por Thor
-    return 0;
+printf("Eu sou o Gabriel"); //Incluso por Gabriel Romão
+return 0;
 }
