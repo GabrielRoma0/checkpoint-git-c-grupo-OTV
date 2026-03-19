@@ -12,5 +12,6 @@ printf("O RM de Fernando é: 571408");  // Incluso por Fernando
 printf("A idade de Fernando é: 18 anos"); // Incluso por Fernando
 printf("Meu nome é Enzo");  //incluso por Enzo
 printf("O Rm do Enzo é 572037"); //incluso por Enzo
+printf("Essa foi a nossa CP de Data Structures and Algorithms"); //incluso por Enzo
 return 0;
 }
